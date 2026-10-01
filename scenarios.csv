@@ -1,0 +1,5 @@
+scenario,customers_to_contact,pct_of_base,expected_profit_BRL
+Voucher R$10 + SMS (base),0,0.0,0
+Voucher R$5,66,0.1,9
+"E-mail only, no voucher",42683,76.9,804
+"Voucher R$10, uplift 100%",4137,7.5,254
